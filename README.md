@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I am the CTO of [ReClique](https://reclique.com). I am also a founder, partner and the first developer.
+
 <!--
-**raul-reclique/raul-reclique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp; <a href="https://reclique.com"><img src="https://user-images.githubusercontent.com/60893963/151369006-436abcb9-707d-4d44-bee1-1b55b1cd2142.svg" alt="ReClique" style="height:16px;"></a>
 
 Here are some ideas to get you started:
 
